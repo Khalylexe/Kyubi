@@ -34,7 +34,10 @@
 
 ## Disclaimers
 
-This is my fork of [SmartCookieWeb Preview](https://github.com/CookieJarApps/SmartCookieWeb-Preview), i just changed the name and the logo because smartcookieweb is a goofy name
+<li>This is my fork of [SmartCookieWeb Preview](https://github.com/CookieJarApps/SmartCookieWeb-Preview), i just changed the name and the logo because smartcookieweb is a goofy name</li>
+<li>I pretty much don’t know anything about Android development, which is one of the reasons I tried forking this project. However, I realized I still have a long way to go, so for now, I will not be updating this repo until I learn some fundamentals.
+I genuinely want a Firefox browser that doesn’t suck on Android, and I think this has potential, but the original creator is not even trying. I might just create my own UI as soon as I’m capable of doing that.</li>
+
 
 ## Warranty
 
